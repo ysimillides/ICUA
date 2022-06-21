@@ -3,6 +3,8 @@
 
 Analytical solutions and references for ICUA 2022
 
+## [Slides](https://github.com/ysimillides/ICUA/blob/main/slides_yiannis_ICUA.pptx)
+
 ## Analytical Solutions
 * [Solid Cylinder submerged in fluid](https://colab.research.google.com/drive/1B_kANyJq5-8jJPLMXo8mfeZiDdiuaTko?usp=sharing)
 * [Solid Annulus submerged in fluid](https://colab.research.google.com/drive/1cvpmO1uuMtztBib-QWEMT_W7QxAp-oKc?usp=sharing)
