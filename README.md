@@ -1,4 +1,6 @@
 # ICUA
+![ICUA Logo](https://icua2022.org/wp-content/uploads/2021/07/icua-2022-logo-e1626441504670.png)
+
 Analytical solutions and references for ICUA 2022
 
 ## Analytical Solutions
